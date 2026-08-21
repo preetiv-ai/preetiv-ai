@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preeti Verma</h1>
-<h3 align="center">AI/ML Engineer | Python Fullstack Developer | Cloud & Kubernetes Enthusiast</h3>
+<h3 align="center">AI/ML Engineer | Python Developer | Automation </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Love+to+explore+the+real+World+along+with+the+AI+World;Changing+the+world%2C+one+Git+commit+at+a+time;Building+ML+pipelines+%7C+Scaling+them+on+Kubernetes;Always+learning%2C+always+shipping" alt="Typing SVG" />
