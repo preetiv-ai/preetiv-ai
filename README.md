@@ -23,14 +23,14 @@ I also bring hands-on experience in client communication, architectural design d
 - 👀 Interested in AI/ML, coding, learning new things & taking on challenges
 - 🌱 Currently learning **Go** & preparing for a cloud certification
 - 💞️ Looking to collaborate on challenging **Python / ML** problems
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/preeti-verm4/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/preeti-dev/)
 - ⚡ Motto: *"Mark your presence, wherever you are"*
 
 ---
 
 ### 🎓 Education
 
-- **M.S. in Artificial Intelligence** — *University of Auckland* (2025 – 2026)
+- **Master in Artificial Intelligence** — *University of Auckland* (2025 – 2026)
 
 ---
 
