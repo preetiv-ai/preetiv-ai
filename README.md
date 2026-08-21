@@ -30,7 +30,7 @@ I also bring hands-on experience in client communication, architectural design d
 
 ### 🎓 Education
 
-- **Master of Artificial Intelligence** — *University of Auckland* (Mar 2025 – Jun 2026)
+- **Master of Artificial Intelligence** — *University of Auckland* (completed 2026)
 
 ---
 
@@ -76,7 +76,6 @@ I also bring hands-on experience in client communication, architectural design d
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Digital%20Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
 </p>
 
 *Includes hands-on work with AWS Lambda, S3, SES, Azure Functions & SDK, auto-scaling, and load balancing.*
