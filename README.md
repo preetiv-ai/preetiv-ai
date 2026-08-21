@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=preetiv-ai&color=blueviolet&style=flat-square" alt="Profile views" />
-  <a href="https://www.linkedin.com/in/preeti-verm4/">
+  <a href="https://www.linkedin.com/in/preeti-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
@@ -30,7 +30,7 @@ I also bring hands-on experience in client communication, architectural design d
 
 ### 🎓 Education
 
-- **Master in Artificial Intelligence** — *University of Auckland* (2025 – 2026)
+- **Master of Artificial Intelligence** — *University of Auckland* (Mar 2025 – Jun 2026)
 
 ---
 
@@ -101,9 +101,12 @@ Also experienced with Microsoft Project, Teamwork, Smartsheet, Airtable, Eureka/
 
 ### 🎓 Certifications
 
-- 🏅 AWS Certified Machine Learning – Specialty — *Amazon Web Services (AWS)*
-- 🏅 Microsoft Certified: Azure AI Engineer Associate — *Microsoft*
-- 🏅 Google Cloud Professional Machine Learning Engineer — *Google Cloud*
+- 🏅 Azure AI Services Essential Training — *LinkedIn Learning*
+- 🏅 AI Pair Programming with GitHub Copilot — *LinkedIn Learning*
+- 🏅 Learning Docker — *LinkedIn Learning*
+- 🏅 Complete Python Bootcamp: From Zero to Hero — *Udemy*
+- 🏅 MFDM™ AI Aware Certification — *Tata Consultancy Services*
+- 🌱 Cloud certification (AWS/Azure) — *in progress*
 
 ---
 
@@ -121,7 +124,7 @@ Also experienced with Microsoft Project, Teamwork, Smartsheet, Airtable, Eureka/
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/preeti-verm4/">
+  <a href="https://www.linkedin.com/in/preeti-dev/">
     <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
