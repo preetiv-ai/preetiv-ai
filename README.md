@@ -109,21 +109,6 @@ Also experienced with Microsoft Project, Teamwork, Smartsheet, Airtable, Eureka/
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preetiv-ai&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preetiv-ai&theme=tokyonight" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetiv-ai&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/preeti-dev/">
-    <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=preetiv-ai&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="165"/> <img src="https://streak-stats.demolab.com?user=preetiv-ai&theme=tokyonight" alt="GitHub Streak" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetiv-ai&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" /> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/preeti-dev/"> <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
